@@ -1,8 +1,8 @@
 {
-  "squadName" : "Super Hero Squad",
-  "homeTown" : "Metro City",
-  "formed" : 2016,
-  "secretBase" : "Super tower",
+  "squadName" : "Digital Hub Squad",
+  "homeTown" : "Toronto",
+  "formed" : 2007,
+  "secretBase" : "Rebal Base",
   "active" : true,
   "members" : [
     {
